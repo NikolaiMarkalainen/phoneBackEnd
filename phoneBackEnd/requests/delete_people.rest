@@ -1,0 +1,1 @@
+DELETE  https://wispy-haze-4584.fly.dev/api/people/1

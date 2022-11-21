@@ -1,0 +1,7 @@
+POST https://wispy-haze-4584.fly.dev/api/people
+Content-Type: application/json
+
+{
+    "name": "aaaaa",
+    "number": "440562356123"
+}
